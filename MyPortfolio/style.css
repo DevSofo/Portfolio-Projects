@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+
+}
+.logo{
+    font-size: 25px;
+}
+.navbar{
+    font-size: 18px;
+    margin-right: 40px;
+}
+.navbar a{
+    padding: 5px 10px;
+    
+}
